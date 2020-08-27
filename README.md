@@ -1,5 +1,5 @@
 # DeepAttnMISL_MEDIA
-Core codes of Pytorch implementation of MEDIA'20 paper.
+Core codes of Pytorch implementation of MEDIA'20 paper and an improved version of MICCAI 19.
 
  - [Whole Slide Images Based Cancer Survival Prediction using Attention Guided Deep
 Multiple Instance Learning Networks](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301535), [Jiawen Yao](https://utayao.github.io/), Xinliang Zhu, Jitendra Jonnagaddala, Nicholas Hawkins and Junzhou Huang.
