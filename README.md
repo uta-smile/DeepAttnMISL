@@ -8,6 +8,9 @@ Multiple Instance Learning Networks](https://www.sciencedirect.com/science/artic
 - [Deep Multi-instance Learning for Survival Prediction from Whole Slide Images](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55), MICCAI 2019
 ---
 
+### Overview
+![Pipeline](https://ars.els-cdn.com/content/image/1-s2.0-S1361841520301535-fx1_lrg.jpg)
+
 ### Data
 Need to specify the path of data label and image features
 Data labels are in csv format. Image features can be saved in npz format with clustering label, etc. More can be found in dataset definition.
